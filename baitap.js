@@ -1,5 +1,6 @@
 
 var Task = function () {
+    console.log("start")
     let textInput = ",,,KHU!VUC????????????????HA,,,,,,,,,NOI Troi-Nang nong?khong co.mua;Nhiet?Do.Cao kha banh.khiep.mua?khao";
     console.log("Text : " + textInput)
     let newTextInput = textInput.toLowerCase();
