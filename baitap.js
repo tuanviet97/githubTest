@@ -1,8 +1,6 @@
 
 var Task = function () {
-    console.log("start")
-    console.log("start")
-    console.log("start")
+    console.log(Finish)
 
     let textInput = ",,,KHU!VUC????????????????HA,,,,,,,,,NOI Troi-Nang nong?khong co.mua;Nhiet?Do.Cao kha banh.khiep.mua?khao";
     console.log("Text : " + textInput)
